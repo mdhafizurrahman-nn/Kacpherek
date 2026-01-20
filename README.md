@@ -1,116 +1,92 @@
-# 🎧 lofi vibes only 🎧
-
 <div align="center">
 
-```
-    ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫
-    
-       K A C P E R
-       
-    19yo • poland • lofi coder
-    ═══════════════════════
-    
-    🎓 technikum 2025/2026
-    💻 coding till 3am
-    ☕ fueled by coffee
-    🌙 lofi beats on repeat
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Kacper.;Frontend+%2B+Astro+Developer.;Building+the+future+of+web." alt="Typing SVG" />
 
-<img src="https://read.githubusercontent.com/kamranahmedse/kamranahmedse/master/assets/lofi-hip-hop-girl.gif" width="400" />
-
----
-
-### 🛹 stack
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────┐
-│                                             │
-│   🟨 JavaScript    │   ⚛️  React           │
-│   🔷 TypeScript    │   🚀 Astro            │
-│   🎨 TailwindCSS   │   🟢 Node.js          │
-│   🟣 Git           │   🟡 Bun              │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+<p align="center">
+    <a href="https://github.com/Kacpherek">
+        <img src="https://komarev.com/ghpvc/?username=Kacpherek&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    </a>
+</p>
 
 </div>
 
 ---
 
-### 📊 stats
+### ⚡ About Me
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kacpherek&theme=radical&hide_border=true&bg_color=2d1b4e&title_color=ff9e9e&text_color=e0c3fc&icon_color=ff9e9e&ring_color=ff9e9e&border_color=6b4c9a" width="400" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kacpherek&theme=radical&hide_border=true&bg_color=2d1b4e&title_color=ff9e9e&text_color=e0c3fc" width="400" />
-
-</div>
-
----
-
-### 🔥 streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kacpherek&theme=radical&hide_border=true&background=2d1b4e&stroke=e0c3fc&ring=ff9e9e&fire=ff9e9e&currStreakNum=ff9e9e&sideNums=ff9e9e&sideLabels=ff9e9e&dates=e0c3fc" width="400" />
-
-</div>
+```typescript
+const Developer = {
+    name: "Kacper",
+    age: 19,
+    role: "Full Stack Developer",
+    education: "Technikum (Graduating 2026) 🎓",
+    code: ["TypeScript", "React", "Astro", "Tailwind"],
+    challenge: "Turning coffee into clean code ☕"
+};
+```
 
 ---
 
-### 🎮 projects
+### 🚀 Tech Stack
 
 <div align="center">
 
-<a href="https://github.com/Kacpherek/strona-zakladpogrzebowy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kacpherek&repo=strona-zakladpogrzebowy&theme=radical&hide_border=true&bg_color=2d1b4e&title_color=ff9e9e&text_color=e0c3fc" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,astro,tailwind,bun,nodejs,git,github,vscode,figma&theme=dark&perline=15" />
 </a>
 
 </div>
 
 ---
 
-### 🧠 random facts
-
-| 💭 | |
-|---|---|
-| 😴 | śpię 4h dziennie |
-| 🎧 | słucham lofi non stop |
-| 🍕 | pizza = życie |
-| 🌙 | coding w nocy to mood |
-| 🐛 | bugi to feature |
-
----
-
-### 📬 kontakt
+### 📈 GitHub Stats
 
 <div align="center">
 
-[![gmail](https://img.shields.io/badge/papiezkacper10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:papiezkacper10@gmail.com)
-[![github](https://img.shields.io/github/followers/Kacpherek?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kacpherek)
+<table style="border: none; background: transparent;">
+<tr>
+<td align="center" style="border: none;">
+<img src="https://github-readme-stats.vercel.app/api?username=Kacpherek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</td>
+<td align="center" style="border: none;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kacpherek&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kacpherek&theme=tokyonight&hide_border=true&background=00000000&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" />
 
 </div>
 
 ---
 
+### 💻 Featured Project
+
 <div align="center">
 
-```
-    ╭──────────────────────────╮
-    │                          │
-    │   thanks for visiting    │
-    │      stay lofi 🌙        │
-    │                          │
-    ╰──────────────────────────╯
-    
-        now playing:
-    lofi hip hop radio - 
-    beats to relax/study to
-```
+<a href="https://github.com/Kacpherek/strona-zakladpogrzebowy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kacpherek&repo=strona-zakladpogrzebowy&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=61DAFB&icon_color=61DAFB" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,123,2,55,100&height=80&section=footer&strokeWidth=0" width="100%" />
+</div>
 
+---
+
+### 📬 Connect
+
+<div align="center">
+
+<a href="mailto:papiezkacper10@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Kacpherek">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
 </div>
